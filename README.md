@@ -30,4 +30,11 @@ Outside school and work, I enjoy playing music in various Edmonton community ban
 
 Contact me at to contact me <gihozo@ualberta.ca> if you are interest in collaborating in any projects..! Always open to share and learn new things! 
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Arnold Gihozo GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ArnoldGihozo&show_icons=true&hide_border=true" />
+
+</details>
+
 
