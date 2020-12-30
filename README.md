@@ -1,6 +1,6 @@
 ### Hello! I am Arnold! 👋🏾 💻
 
-<img src="https://sdk.bitmoji.com/render/panel/2af24209-ea90-4912-9223-4c54c650559a-d01c8adc-0ba7-4712-aec0-abdf98b36b99-v1.png?transparent=1&palette=1" alt="Arnold Hi"  width= "500" height="600" float="right">
+<img src="https://sdk.bitmoji.com/render/panel/2af24209-ea90-4912-9223-4c54c650559a-d01c8adc-0ba7-4712-aec0-abdf98b36b99-v1.png?transparent=1&palette=1" alt="Arnold Hi"  width= "100" height="200" float="right">
 In May 2021, I will be graduating with my Bachelor of Science with a major in Computing Science from the University of Alberta. Currently, I am working on various paid and non-paid 
 projects that fit the various interest I have within my community. Feel free to take a look bellow to learn more about my work and what passiones me.
 
