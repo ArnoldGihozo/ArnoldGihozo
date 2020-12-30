@@ -26,7 +26,6 @@ Outside school and work, I enjoy playing music in various Edmonton community ban
 
 ## Find out more about Arnold:
 - My work experience on [LinkedIn](https://www.linkedin.com/in/arnold-gihozo/)
-- My projects on [Website]
 - My work in connecting tech and community can be found [here](https://vimeo.com/474012684/decd00ec5d)
 
 Contact me at to contact me <gihozo@ualberta.ca> if you are interest in collaborating in any projects..! Always open to share and learn new things! 
