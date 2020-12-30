@@ -32,6 +32,6 @@ within our environemtn whether we realize it or not. With that said, I have work
 - Learn more about my work experience on [LinkedIn](https://www.linkedin.com/in/arnold-gihozo/)
 - Learn more about my projects on [Website]
 - Some feature of project I have worked on [Sickle Cell] (https://vimeo.com/474012684/decd00ec5d)
-- Click [here](gihozo@ualberta.ca) to contact me if you are interest in collaborating in any projects..! Always open to share and learn new things! 
+- Click [here](here:gihozo@ualberta.ca) to contact me if you are interest in collaborating in any projects..! Always open to share and learn new things! 
 
 
