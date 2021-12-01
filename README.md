@@ -1,29 +1,22 @@
 # Hello! I am Arnold! 👋🏾 💻
 
-<img src="https://sdk.bitmoji.com/render/panel/2af24209-ea90-4912-9223-4c54c650559a-d01c8adc-0ba7-4712-aec0-abdf98b36b99-v1.png?transparent=1&palette=1" alt="Arnold Hi"  style="align:right;height:50px;">
-In May 2021, I will be graduating with my Bachelor of Science with a major in Computing Science from the University of Alberta. Currently, I am working on various paid and non-paid 
-projects that fit the various interest I have within my community. Feel free to take a look bellow to learn more about my work and what passiones me.
-
-
-
 ## Who is Arnold? 🧑🏾‍💻
-I am currently in my final year of computing science at the University of Alberta. Through the past 4 years I have been at ualberta, I have accomplished many projects. One of my passion is 
-working in making a change within my community. I have worked with various organizations to bring Computer Science curriculems to high school and junio-high schools around Edmonton. I have also worked in creating events and campaigns promoting the culture diversity that we have on campus. 
 
-Outside my advocacy work, I have been working in using my tech skills in making a change. I firmly believe that developing goes more than just code. As developers, we work into making a change 
-within our environemtn whether we realize it or not. With that said, I have worked on various project such as Open Door project (git hub repo bellow) to improve the day-to-day tasks of the organization. Furthermore, I have worked on mobile application such as Mench PintSize application aiming to improve blood donations within the Albertan community. 
+Arnold Gihozo is the Lead Software Engineer at Areto Labs, a fast-growing company aimed to create technology for social good. As a recent graduate from the University of Alberta, Arnold’s passion lies in helping grow and improve communities through technology. That passion led him to Areto Labs, in which he is involved in many of the Machine Learning and groundbreaking projects the company is working on. Currently, his focus lies on leading a software team in building a solid back-end system, supporting the learning and development of the Machine Learning model and building a world-class infrastructure!
 
-Outside school and work, I enjoy playing music in various Edmonton community bands and sing in local choirs. I am an avid music enthusiat, loving music ranging from classical to Afrobeats/pop and jazz 🎶. In my free time, I enjoy sharpening my programming skills and working on small projects relating to the work I am passion in. 
+Outside school and work, Arbold enjoys playing music in various Edmonton community bands and sing in local choirs. He is also an avid music enthusiat, loving music ranging from classical to Afrobeats/pop and jazz 🎶. In his free time, he enjoys sharpening my programming skills and working on small projects relating to the work he has passion in.
 
-## My Current Focus:🎧
-- Currently, I am working in building a music recommendation application aiming to give people the opportunity to discover music outside their known genre.
-- Continue the work with Pint Size project
-- Continue the work with SupportShip application
-- Finishing my undergraduate degree
-- Contribute in open source projects
-- Learning new skills and languages (Go, Rust)
+## My Current Projects:🎧
+- Starting a Youtube Channel that talks about Leadership, Tech, and everything in between
+- Working on a cross platform iOS app aimed to sync reminders and pomodoro timer
+- 
 
-
+## My Current Learning/Readings:🎧
+- Learning more about Streaming Sytems (Reading: Grokking Streaming Systems by Josh Fisher and Ning Wang)
+- Learning about Flask (Reading: Flask Web Development by Miguel Grinberg)
+- Learning about clean code (Reading: Clean Coder by Robert Cecil Martin)
+- Learning about Leadership and Management (Reading: The Making of a Manager by Julie Zho and Radical Candor by Kim Scott)
+- 
 ## Find out more about Arnold:
 - My work experience on [LinkedIn](https://www.linkedin.com/in/arnold-gihozo/)
 - My projects through my [website](https://arnoldgih.com)
