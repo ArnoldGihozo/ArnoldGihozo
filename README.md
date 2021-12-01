@@ -19,8 +19,14 @@ Outside school and work, Arnold enjoys playing music in various Edmonton communi
 - 
 ## Find out more about Arnold:
 - My work experience on [LinkedIn](https://www.linkedin.com/in/arnold-gihozo/)
-- My projects through my [website](https://arnoldgih.com)
 - My work in connecting tech and community can be found [here](https://vimeo.com/474012684/decd00ec5d)
+- My work in regards to leadership can be found [here](https://www.ualberta.ca/augustana/news/2021/11/convocation-spotlight-arnold.html)
+
+## Past events:
+I have been previously invited to give talks at the following organizations:
+- [Google](https://about.google/)
+- [AMII](https://www.amii.ca/)(Alberta Machine Intelligence Institute)
+- [University of Alberta](https://www.ualberta.ca/index.html)
 
 Contact me at  <gihozo@ualberta.ca> if you are interest in collaborating in any projects..! Always open to share and learn new things! 
 
