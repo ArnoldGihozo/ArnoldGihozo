@@ -4,7 +4,7 @@
 
 Arnold Gihozo is the Lead Software Engineer at Areto Labs, a fast-growing company aimed to create technology for social good. As a recent graduate from the University of Alberta, Arnold’s passion lies in helping grow and improve communities through technology. That passion led him to Areto Labs, in which he is involved in many of the Machine Learning and groundbreaking projects the company is working on. Currently, his focus lies on leading a software team in building a solid back-end system, supporting the learning and development of the Machine Learning model and building a world-class infrastructure!
 
-Outside school and work, Arbold enjoys playing music in various Edmonton community bands and sing in local choirs. He is also an avid music enthusiat, loving music ranging from classical to Afrobeats/pop and jazz 🎶. In his free time, he enjoys sharpening my programming skills and working on small projects relating to the work he has passion in.
+Outside school and work, Arnold enjoys playing music in various Edmonton community bands and sing in local choirs. He is also an avid music enthusiat, loving music ranging from classical to Afrobeats/pop and jazz 🎶. In his free time, he enjoys sharpening my programming skills and working on small projects relating to the work he has passion in.
 
 ## My Current Projects:🎧
 - Starting a Youtube Channel that talks about Leadership, Tech, and everything in between
