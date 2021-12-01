@@ -9,7 +9,7 @@ Outside school and work, Arbold enjoys playing music in various Edmonton communi
 ## My Current Projects:🎧
 - Starting a Youtube Channel that talks about Leadership, Tech, and everything in between
 - Working on a cross platform iOS app aimed to sync reminders and pomodoro timer
-- 
+- Building a simple streamer service using Golang
 
 ## My Current Learning/Readings:🎧
 - Learning more about Streaming Sytems (Reading: Grokking Streaming Systems by Josh Fisher and Ning Wang)
