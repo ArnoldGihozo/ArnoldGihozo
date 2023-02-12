@@ -28,7 +28,7 @@ I have been previously invited to give talks at the following organizations:
 - [AMII](https://www.amii.ca/)(Alberta Machine Intelligence Institute)
 - [University of Alberta](https://www.ualberta.ca/index.html)
 
-Contact me at  <gihozo@ualberta.ca> if you are interest in collaborating in any projects..! Always open to share and learn new things! 
+Contact me at  <arno.mugabo@gmail.com> if you are interest in collaborating in any projects..! Always open to share and learn new things! 
 
 <!-- <details>
   <summary>:zap: GitHub Stats</summary>
@@ -36,5 +36,3 @@ Contact me at  <gihozo@ualberta.ca> if you are interest in collaborating in any 
   <img align="left" alt="Arnold Gihozo GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ArnoldGihozo&show_icons=true&hide_border=true" />
 
 </details> -->
-
-
